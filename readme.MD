@@ -47,6 +47,6 @@ Usando a função =concatenar() do excel, você consegue arrastar através das c
 
 Acredito que, como iniciante, esses são os detalhes que posso oferecer no momento. Caso precise de mais, terá que ser com um profissional mesmo!
 
-Meu nick é Raturso, e para falar comigo para obter ajuda, no que eu puder é claro, basta mandar um direct no insta divino.h
+Meu nick é Raturso, e para falar comigo para obter ajuda, no que eu puder é claro, basta mandar um direct no insta rat.urso
 
 "Na verdade que eu sou mais bruto do que ninguém, não tenho o entendimento do homem, nem aprendi a sabedoria do santo!"
