@@ -34,12 +34,13 @@ Crie uma mensagem comum e copie o novo link.
 
 
 Se for muitos contatos, quebre o link em três, por exemplo, o número 5577777777777 em que a mensagem seja ola ficará assim: https://api.whatsapp.com/send?phone=5555777777777&text=Ola!
-Você separa em
-                parte 1 - https://api.whatsapp.com/send?phone=      (raiz do link)
+Você separa em:
+
+                        parte 1 - https://api.whatsapp.com/send?phone=      (raiz do link)
 
                         parte 2 - 5555777777777                          ( o número será o variável)
 
-                             parte 3 - &text=Ola!                           (aqui é o texto)
+                        parte 3 - &text=Ola!                           (aqui é o texto)
 
 
 Usando a função =concatenar() do excel, você consegue arrastar através das células e gerar vários links válidos.
