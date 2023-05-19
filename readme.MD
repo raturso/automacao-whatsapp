@@ -1,8 +1,10 @@
-Para a execução do programa você precisará da bliblioteca Selenium
+ Lembrando que essa explicação é para iniciantes, como eu!
+ _______________________________________________________________________________________________
+ Para a execução do programa você precisará da bliblioteca Selenium
 O WebDriver usado foi o webdriver do Chrome, por ser mais fácil. Link abaixo
       WebDriver        -https://chromedriver.chromium.org/downloads
 
-
+_________________________________________________________________________________________________
 Caso queira instalar e criar um executável (Windows) (não que haja necessidade disso para usar):
 
     Lembrando que essa explicação é para iniciantes, como eu!
@@ -15,6 +17,8 @@ Caso queira instalar e criar um executável (Windows) (não que haja necessidade
     Procure o arquivo whatsapp-automatico.py e dê um clique em convert . py to .exe
     Procure o arquivo executável dentro do disco principal/usuário/dist 
 
+_________________________________________________________________________________________________________________________________________________
+
 
 Em suma, funcionou perfeitamente nos teste com até 500 contatos. Não havia mais contatos para eu fazer os testes, então fiz só até essa quantidade mesmo.
 
@@ -26,6 +30,8 @@ Se seu PC for mais lento, dobre os valores dentro de time.sleep(valor*2)
 Em caso de dúvida, me mande um direct que eu ajudo!
 
 Esse programa eu criei por pura curiosidade, já que ele é meu primeiro contato com Python. Estou mais acostumado a usar C++ e linguagens de Fullstack de designers comuns para sites.
+
+
 
 Caso queira que o link de sua planilha tenha o texto diferente, pode acessar o site: 
     https://zap.convertte.com.br/gerador-link-whatsapp/
